@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thecryptojimmy
-- 👀 I’m interested in solidity
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in web3 Dapps and Python
+- 🌱 I’m currently learning Solidity
 - 📫 you can reach me on instagram @salaujimmy
 
 <!---
